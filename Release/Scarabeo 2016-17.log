@@ -1,0 +1,11 @@
+﻿  Giocatore.cpp
+  Gioco.cpp
+Gioco.cpp(246): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  main.cpp
+  Generazione codice in corso...
+  Generazione codice terminata
+  66 of 475 functions (13.9%) were compiled, the rest were copied from previous compilation.
+    7 functions were new in current compilation
+    48 functions had inline decision re-evaluated but remain unchanged
+  Scarabeo 2016-17.vcxproj -> C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Scarabeo 2016-17\Release\Scarabeo 2016-17.exe
+  Scarabeo 2016-17.vcxproj -> C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Scarabeo 2016-17\Release\Scarabeo 2016-17.pdb (Full PDB)

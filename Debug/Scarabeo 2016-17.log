@@ -1,0 +1,8 @@
+﻿  Gioco.cpp
+c:\users\stefano\documents\visual studio 2015\projects\scarabeo 2016-17\gioco.cpp(246): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Giocatore.cpp
+  Generazione del codice in corso...
+  Omissione in corso... (nessuna modifica importante rilevata)
+  main.cpp
+  Scarabeo 2016-17.vcxproj -> C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Scarabeo 2016-17\Debug\Scarabeo 2016-17.exe
+  Scarabeo 2016-17.vcxproj -> C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Scarabeo 2016-17\Debug\Scarabeo 2016-17.pdb (Partial PDB)
